@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheSidebar.vue has ["add post button", "tags"] on other pages (create and edit states allowed) 1`] = `
+<div class="the-sidebar">
+    <div class="the-sidebar__container">
+        <div class="the-sidebar__inner">
+            <AppButton class="the-sidebar__item">+ добавить пост</AppButton>
+            <!---->
+            <!---->
+            <TheSidebarTags class="the-sidebar__item"></TheSidebarTags>
+        </div>
+    </div>
+</div>
+`;
+
+exports[`TheSidebar.vue has ["edit panel"] on "create post" page (create and edit states allowed) 1`] = `
+<div class="the-sidebar">
+    <div class="the-sidebar__container">
+        <div class="the-sidebar__inner">
+            <!---->
+            <!---->
+            <TheSidebarPanelEdit class="the-sidebar__item"></TheSidebarPanelEdit>
+            <!---->
+        </div>
+    </div>
+</div>
+`;
+
+exports[`TheSidebar.vue has ["edit panel"] on "edit post" page (create and edit states allowed) 1`] = `
+<div class="the-sidebar">
+    <div class="the-sidebar__container">
+        <div class="the-sidebar__inner">
+            <!---->
+            <!---->
+            <TheSidebarPanelEdit class="the-sidebar__item"></TheSidebarPanelEdit>
+            <!---->
+        </div>
+    </div>
+</div>
+`;
+
+exports[`TheSidebar.vue has ["edit post button"] on "post" page (create and edit states allowed) 1`] = `
+<div class="the-sidebar">
+    <div class="the-sidebar__container">
+        <div class="the-sidebar__inner">
+            <!---->
+            <AppButton class="the-sidebar__item">редактировать пост</AppButton>
+            <!---->
+            <!---->
+        </div>
+    </div>
+</div>
+`;
+
+exports[`TheSidebar.vue has ["tags"] on other pages (create and edit states denied) 1`] = `
+<div class="the-sidebar">
+    <div class="the-sidebar__container">
+        <div class="the-sidebar__inner">
+            <!---->
+            <TheSidebarTags class="the-sidebar__item"></TheSidebarTags>
+        </div>
+    </div>
+</div>
+`;
+
+exports[`TheSidebar.vue has [] on "post" page if (create and edit states denied) 1`] = `
+<div class="the-sidebar">
+    <div class="the-sidebar__container">
+        <div class="the-sidebar__inner">
+            <!---->
+            <!---->
+        </div>
+    </div>
+</div>
+`;

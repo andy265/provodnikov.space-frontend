@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheHeader.vue has same HTML structure 1`] = `
+<header class="the-header">
+    <TheHeaderLogo class="the-header__logo"></TheHeaderLogo>
+    <div class="the-header__inner">
+        <AppTitle to="/" tag="h1" theme="main" class="the-header__title">Андрей Проводников / Блог</AppTitle>
+        <div>
+            <AppButton>подписаться</AppButton>
+        </div>
+    </div>
+</header>
+`;

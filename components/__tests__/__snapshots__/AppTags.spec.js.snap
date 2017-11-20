@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppTags.vue has same HTML structure 1`] = `
+<div class="app-tags">
+    <AppLink to="/tag/tag_id_1" class="app-tags__item">#tag name 1</AppLink>
+    <AppLink to="/tag/tag_id_2" class="app-tags__item">#tag name 2</AppLink>
+</div>
+`;

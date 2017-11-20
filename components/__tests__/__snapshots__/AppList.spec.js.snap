@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppList.vue has same HTML structure 1`] = `
+<div class="app-list">
+    <div>item 1</div>
+</div>
+`;

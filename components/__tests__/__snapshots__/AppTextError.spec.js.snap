@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppTextError.vue has same HTML structure 1`] = `<p class="app-text-error"><span>some text</span></p>`;

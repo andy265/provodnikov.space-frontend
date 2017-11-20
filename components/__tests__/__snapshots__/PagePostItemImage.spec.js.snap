@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostItemImage.vue has same HTML structure when state is "index" and no errors 1`] = `
+<div class="page-post-item-image">
+    <AppImage src="https://farm5.staticflickr.com/4336/36524434961_c6acafcc32_b.jpg" alt="Цветочная пачка" class="app-image_zoomable"></AppImage>
+    <div class="page-post-item-image__caption">
+        <p>Цветочная пачка</p>
+    </div>
+</div>
+`;
+
+exports[`PagePostItemImage.vue has same HTML structure when state is "index" and was load error 1`] = `
+<div class="page-post-item-image">
+    <AppImage src="/404.png" alt="404"></AppImage>
+    <div class="page-post-item-image__caption">
+        <p>Цветочная пачка</p>
+    </div>
+</div>
+`;

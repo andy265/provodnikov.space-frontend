@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheHeaderLogo.vue has same HTML structure 1`] = `
+<div class="the-header-logo">
+    <div class="the-header-logo__image"></div>
+</div>
+`;

@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostDatetime.vue has same HTML structure when state is "index" 1`] = `<AppDatetime timestamp="1510647540"></AppDatetime>`;

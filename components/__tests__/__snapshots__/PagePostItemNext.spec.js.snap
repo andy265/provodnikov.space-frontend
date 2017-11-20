@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostItemNext.vue has same HTML structure when state is "index" and it is preview 1`] = `
+<div class="page-post-item-next">
+    <AppButton class="app-button_base">дальше
+        <AppIcon type="long-arrow-right" class="app-icon_theme_button app-icon_middle"></AppIcon>
+    </AppButton>
+    <!---->
+    <!---->
+</div>
+`;
+
+exports[`PagePostItemNext.vue has same HTML structure when state is "index" and it isn\`t preview 1`] = `
+<div class="page-post-item-next">
+    <!---->
+    <div class="page-post-item-next__padding"></div>
+    <!---->
+</div>
+`;

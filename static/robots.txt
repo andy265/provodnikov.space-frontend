@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Host: provodnikov.space
+Sitemap: https://provodnikov.space/sitemap.xml

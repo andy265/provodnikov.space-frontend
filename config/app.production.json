@@ -1,0 +1,13 @@
+{
+  "siteUrl": "https://provodnikov.space",
+  "apiUrl": "http://localhost:8000",
+  "itemsPerPage": 5,
+  "descriptionMaxLength": 160,
+  "isCreateAndEditStatesAllowed": false,
+  "isSubscribeQuestionAllowed": true,
+  "paginationMaxItemsCount": 3,
+  "mobile": {
+    "maxWidth": 767,
+    "paginationMaxItemsCount": 1
+  }
+}

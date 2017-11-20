@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheSidebarTags.vue has same HTML structure 1`] = `
+<div class="the-sidebar-tags">
+    <AppTags tags="[{&quot;id&quot;:&quot;tag_1&quot;,&quot;name&quot;:&quot;tag name 1&quot;},{&quot;id&quot;:&quot;tag_2&quot;,&quot;name&quot;:&quot;tag name 2&quot;}]" class="app-tags_direction_column"></AppTags>
+</div>
+`;

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostTags.vue has same HTML structure when state is "index" 1`] = `
+<div class="page-post-tags">
+    <AppTags tags="[{&quot;id&quot;:&quot;id_1&quot;,&quot;name&quot;:&quot;name 1&quot;},{&quot;id&quot;:&quot;id_3&quot;,&quot;name&quot;:&quot;name 3&quot;}]" class="app-tags_direction_row"></AppTags>
+</div>
+`;

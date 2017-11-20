@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostItemIframe.vue has same HTML structure when state is "index" 1`] = `
+<div class="page-post-item-iframe">
+    <AppIframe src="https://www.youtube.com/embed/ak8kej76JQY?rel=0&amp;amp;showinfo=0" width="560" height="315"></AppIframe>
+    <!---->
+</div>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppModal.vue has same HTML structure 1`] = `
+<modal name="modal" adaptive="true" scrollable="true" reset="true" width="640px" height="auto" class="app-modal">
+    <div class="app-modal__content">
+        <div>some content</div>
+    </div>
+    <div class="app-modal__buttons">
+        <div>some buttons</div>
+    </div>
+</modal>
+`;

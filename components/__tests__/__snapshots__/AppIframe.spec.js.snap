@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppIframe.vue has same HTML structure 1`] = `
+<div class="app-iframe">
+    <div class="app-iframe__inner" style="padding-bottom:100%;">
+        <iframe src="http://localhost:3000/some_page" allowfullscreen="allowfullscreen" class="app-iframe__iframe"></iframe>
+    </div>
+</div>
+`;

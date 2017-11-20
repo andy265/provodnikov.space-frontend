@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppButton.vue has same HTML structure 1`] = `<button class="app-button ripple"><span>some button name</span></button>`;

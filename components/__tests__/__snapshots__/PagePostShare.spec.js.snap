@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostShare.vue has same HTML structure 1`] = `
+<div class="page-post-share">
+    <AppButton>
+        <AppIcon type="vk" class="app-icon_theme_button"></AppIcon>
+    </AppButton>,
+    <AppButton>
+        <AppIcon type="facebook" class="app-icon_theme_button"></AppIcon>
+    </AppButton>
+    или
+    <AppButton>
+        <AppIcon type="twitter" class="app-icon_theme_button"></AppIcon>
+    </AppButton>
+    — лучший способ сказать мне &quot;Мне нравится&quot;.
+    <social-sharing url="http://localhost:3000/post/post_url" title="post title" hashtags="tag_1,tag_2" twitter-user="blogprovodnikov" style="display:none;"></social-sharing>
+</div>
+`;

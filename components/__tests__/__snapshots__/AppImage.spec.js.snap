@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppImage.vue has same HTML structure 1`] = `
+<div class="app-image">
+    <div class="app-image__inner">
+        <img src="http://localhost:3000/some_img.jpg" alt="description" class="app-image__image">
+    </div>
+</div>
+`;

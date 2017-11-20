@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostItemPoem.vue has same HTML structure when state is "index" 1`] = `
+<div class="page-post-item-poem">
+    <p class="page-post-item-poem__name">some name</p>
+    <p class="page-post-item-poem__text">line 1 line 2 line 3 line 4</p>
+</div>
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The404.vue has same HTML structure 1`] = `
+<div class="the-404">
+    <AppTitle tag="h2" theme="404">404</AppTitle>
+    <AppLink to="/">На главную</AppLink>
+</div>
+`;

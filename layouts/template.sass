@@ -1,0 +1,17 @@
+.layouts-default
+  &__header
+    @include mobile
+      margin: 0 $page-margin-x
+  &__scroll
+    padding: $content-padding-y 0
+  &__content
+    padding: $content-padding-y 0
+    overflow-wrap: break-word
+    @include mobile
+      margin: 0 $page-margin-x
+  &__sidebar
+    overflow-wrap: break-word
+    @include mobile
+      margin: 0 $page-margin-x
+  &__main
+    min-height: 100vh

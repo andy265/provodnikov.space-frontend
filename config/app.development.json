@@ -1,0 +1,13 @@
+{
+  "siteUrl": "http://localhost:3000",
+  "apiUrl": "http://localhost:8000",
+  "itemsPerPage": 5,
+  "descriptionMaxLength": 160,
+  "isCreateAndEditStatesAllowed": true,
+  "isSubscribeQuestionAllowed": false,
+  "paginationMaxItemsCount": 3,
+  "mobile": {
+    "maxWidth": 767,
+    "paginationMaxItemsCount": 1
+  }
+}

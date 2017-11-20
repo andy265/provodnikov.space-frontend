@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppIcon.vue has same HTML structure when size is "2" 1`] = `<span aria-hidden="true" class="app-icon fa fa-vk fa-4x"></span>`;
+
+exports[`AppIcon.vue has same HTML structure when size is not in props 1`] = `<span aria-hidden="true" class="app-icon fa fa-vk"></span>`;

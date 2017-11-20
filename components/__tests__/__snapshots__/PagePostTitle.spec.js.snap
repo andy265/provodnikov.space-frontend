@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PagePostTitle.vue has same HTML structure when state is "index" and it is preview 1`] = `
+<div>
+    <AppTitle to="/post/some_id" tag="h3" theme="sub" class="app-title_center">some name</AppTitle>
+</div>
+`;
+
+exports[`PagePostTitle.vue has same HTML structure when state is "index" and it isn\`t preview 1`] = `
+<div>
+    <AppTitle tag="h2" theme="sub" class="app-title_center">some name</AppTitle>
+</div>
+`;

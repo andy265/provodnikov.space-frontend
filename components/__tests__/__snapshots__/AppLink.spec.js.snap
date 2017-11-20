@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppLink.vue has same HTML structure 1`] = `<a href="/page" target="_self" rel="noopener noreferrer" class="app-link"><span>some text</span></a>`;

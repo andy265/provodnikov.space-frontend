@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheFooter.vue has same HTML structure 1`] = `
+<footer class="the-footer">
+    <p>
+        <AppLink to="/">На главную</AppLink>
+        |
+        <AppLink to="/list">Список постов</AppLink>
+        <br>© 2017
+        <AppLink to="/">Андрей Проводников</AppLink>
+        andrey@provodnikov.space</p>
+</footer>
+`;
